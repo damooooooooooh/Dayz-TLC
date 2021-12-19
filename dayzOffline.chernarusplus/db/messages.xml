@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <messages>
-<!--
+    <!--
 See https://community.bistudio.com/wiki/DayZ:Server_Messages for more information
 	
 Example messages:
@@ -43,5 +43,17 @@ Example messages:
         <text>Welcome to my server #name</text>
     </message>
 	-->
-	
+    <message>
+        <delay>2</delay>
+        <repeat>15</repeat>
+        <onconnect>1</onconnect>
+        <shutdown>0</shutdown>
+        <text>Welcome to the #name. Join us on Discord at http://discordapp.com/</text>
+    </message>
+
+    <message>
+        <deadline>240</deadline>
+        <shutdown>1</shutdown>
+        <text>This server (#name) will shutdown in #tmin minutes.</text>
+        </message>
 </messages>
