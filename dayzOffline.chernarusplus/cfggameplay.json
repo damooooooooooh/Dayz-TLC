@@ -22,7 +22,7 @@
 	"WorldsData":
 	{
 		"lightingConfig": 1,
-		"objectSpawnersArr": []
+		"objectSpawnersArr": ["custom/Altar-Trading-Post.json"]
 	},
 	"BaseBuildingData":
 	{
