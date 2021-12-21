@@ -11527,10 +11527,10 @@
 		</group>
 		<group name="Land_Ship_Big_FrontA" lootmax="8">
 				<usage name="Military" />
-				<usage name="Industrial" />
+				<!--<usage name="Industrial" />
 				<usage name="Coast" />
 				<usage name="Town" />
-				<usage name="Village" />
+				<usage name="Village" />-->
 				<container name="lootFloor" lootmax="8">
 						<category name="tools" />
 						<category name="containers" />
@@ -11598,10 +11598,10 @@
 		</group>
 		<group name="Land_Ship_Big_FrontB" lootmax="8">
 				<usage name="Military" />
-				<usage name="Industrial" />
+				<!--<usage name="Industrial" />
 				<usage name="Coast" />
 				<usage name="Town" />
-				<usage name="Village" />
+				<usage name="Village" />-->
 				<container name="lootFloor" lootmax="8">
 						<category name="tools" />
 						<category name="containers" />
@@ -11657,10 +11657,10 @@
 		</group>
 		<group name="Land_Ship_Big_BackA" lootmax="8">
 				<usage name="Military" />
-				<usage name="Industrial" />
+				<!--<usage name="Industrial" />
 				<usage name="Coast" />
 				<usage name="Town" />
-				<usage name="Village" />
+				<usage name="Village" />-->
 				<container name="lootFloor" lootmax="8">
 						<category name="tools" />
 						<category name="containers" />
@@ -11702,10 +11702,10 @@
 		</group>
 		<group name="Land_Ship_Big_BackB" lootmax="8">
 				<usage name="Military" />
-				<usage name="Industrial" />
+				<!--<usage name="Industrial" />
 				<usage name="Coast" />
 				<usage name="Town" />
-				<usage name="Village" />
+				<usage name="Village" />-->
 				<container name="lootFloor" lootmax="8">
 						<category name="tools" />
 						<category name="containers" />
@@ -11747,10 +11747,10 @@
 		</group>
 		<group name="Land_Ship_Big_Castle" lootmax="45">
 				<usage name="Military" />
-				<usage name="Industrial" />
+				<!--<usage name="Industrial" />
 				<usage name="Coast" />
 				<usage name="Town" />
-				<usage name="Village" />
+				<usage name="Village" />-->
 				<container name="lootFloor" lootmax="15">
 						<category name="tools" />
 						<category name="containers" />
