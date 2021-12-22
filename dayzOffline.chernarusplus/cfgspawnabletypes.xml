@@ -3291,6 +3291,124 @@
 		</attachments>
 	</type>
 
+	<!-- NPC -->
+	<type name="SurvivorM_Mirek">
+		<attachments>
+			<item name="GorkaHelmet_Black" chance="1.00"/>
+		</attachments>
+		<attachments>
+			<item name="NVGHeadstrap" chance="1.00" />
+		</attachments>
+		<attachments>
+			<item name="NVGoggles" chance="1" />
+		</attachments>	
+		<attachments>
+			<item name="BDUJacket" chance="1.00" />
+		</attachments>
+		<attachments>
+			<item name="BDUPants" chance="1.00" />
+		</attachments>
+		<attachments>
+			<item name="MilitaryBoots_Black" chance="1.00" />
+		</attachments>
+		<attachments>
+			<item name="HighCapacityVest_Black" chance="1.00" />
+		</attachments>
+		<attachments>
+			<item name="CombatKnife" chance="1.00" />
+		</attachments>
+		<attachments>
+			<item name="AliceBag_Black" chance="1.00" />
+		</attachments>
+		<attachments>
+			<item name="TacticalGloves_Beige" chance="1.00" />
+		</attachments>
+		<attachments>
+			<item name="MilitaryBelt" chance="1.00" />
+		</attachments>
+		<attachments>
+			<item name="M4A1" />
+		</attachments>
+		<attachments>
+			<item name="M4_OEBttstck" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_PlasticHndgrd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_STANAG_60Rnd" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_Suppressor" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RGD5Grenade" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="RGD5Grenade" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="BloodTestKit" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Bandage" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Rice" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TetracyclineAntibiotics" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TetracyclineAntibiotics" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TetracyclineAntibiotics" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TetracyclineAntibiotics" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TetracyclineAntibiotics" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TetracyclineAntibiotics" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TetracyclineAntibiotics" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TetracyclineAntibiotics" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TetracyclineAntibiotics" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TetracyclineAntibiotics" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="TetracyclineAntibiotics" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Battery9V" />
+		</attachments>
+	</type>
+
 <!--
 	<type name="V3S_Chassis">
 		<attachments chance="1.00">
