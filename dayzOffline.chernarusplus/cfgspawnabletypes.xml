@@ -2121,16 +2121,50 @@
 		</attachments>
 		<attachments chance="1.00"> <!-- Boosted -->
 			<item name="Mag_CMAG_40Rnd" chance="0.15" />
-			<item name="Mag_CMAG_10Rnd" chance="0.50" />
-			<item name="Mag_CMAG_20Rnd" chance="0.70" />
+			<item name="Mag_CMAG_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="M4A1_Black">
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_RISHndgrd_Black" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic_6x" chance="0.15" />
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_Suppressor" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="0.15" />
+			<item name="Mag_CMAG_30Rnd" chance="1.00" />
+		</attachments>
+	</type>
+	<type name="M4A1_Green">
+		<attachments chance="1.00">
+			<item name="M4_OEBttstck_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_MPHndgrd_Green" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="ACOGOptic_6x" chance="0.15" />
+			<item name="ACOGOptic" chance="1.00" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="M4_Suppressor" chance="0.50" />
+		</attachments>
+		<attachments chance="1.00">
+			<item name="Mag_CMAG_40Rnd" chance="0.15" />
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
 	</type>
 	<type name="M16A2">
 		<attachments chance="1.00"> <!-- Boosted -->
 			<item name="Mag_CMAG_40Rnd" chance="0.15" />
-			<item name="Mag_CMAG_10Rnd" chance="0.50" />
-			<item name="Mag_CMAG_20Rnd" chance="0.70" />
 			<item name="Mag_CMAG_30Rnd" chance="1.00" />
 		</attachments>
 	</type>
