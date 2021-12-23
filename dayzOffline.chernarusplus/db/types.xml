@@ -9769,7 +9769,7 @@
         <value name="Tier4"/>
     </type>
     <type name="M4A1_Black">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>1</min>
@@ -9781,7 +9781,7 @@
         <usage name="ContaminatedArea"/>
     </type>
     <type name="M4A1_Green">
-        <nominal>1</nominal>
+        <nominal>2</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
         <min>1</min>
