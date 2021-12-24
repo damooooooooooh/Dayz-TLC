@@ -27,12 +27,12 @@
         <value name="Tier3"/>
         <value name="Tier4"/>
     </type>
-    <!-- Set to same as AKM % -->
+    <!-- Boosted -->
     <type name="AK101">
-        <nominal>4</nominal>
+        <nominal>2</nominal>
         <lifetime>3600</lifetime>
-        <restock>3600</restock>
-        <min>2</min>
+        <restock>0</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
@@ -42,15 +42,17 @@
         <value name="Tier4"/>
     </type>
     <type name="AK101_Black">
-        <nominal>0</nominal>
+        <nominal>1</nominal>
         <lifetime>3600</lifetime>
         <restock>0</restock>
-        <min>0</min>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>        
     </type>
     <!-- Boosted -->
     <type name="AK101_Green">
@@ -61,7 +63,7 @@
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="Military"/>
         <value name="Tier4"/>
@@ -127,9 +129,9 @@
         <usage name="Military"/>
     </type>
     <type name="AKM">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>3600</lifetime>
-        <restock>300</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -396,9 +398,9 @@
     </type>
     <!-- Boosted -->
     <type name="ASVAL">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>3600</lifetime>
-        <restock>300</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -1376,9 +1378,9 @@
     </type>
     <!-- Boosted -->
     <type name="AntiChemInjector">
-        <nominal>3</nominal>
+        <nominal>1</nominal>
         <lifetime>3600</lifetime>
-        <restock>300</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -5532,7 +5534,7 @@
     <type name="FAL">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>900</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -5545,7 +5547,7 @@
     <type name="FAMAS">
         <nominal>5</nominal>
         <lifetime>3600</lifetime>
-        <restock>3</restock>
+        <restock>900</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -9045,9 +9047,9 @@
         <usage name="Military"/>
     </type>
     <type name="KazuarOptic">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -9755,40 +9757,39 @@
     </type>
     <!-- Boosted -->
     <type name="M4A1">
-        <nominal>5</nominal>
+        <nominal>2</nominal>
         <lifetime>3600</lifetime>
-        <restock>0</restock>
-        <min>3</min>
+        <restock>1800</restock>
+        <min>1</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="weapons"/>
+        <usage name="Military"/>
+        <value name="Tier4"/>
+    </type>
+    <type name="M4A1_Black">
+        <nominal>1</nominal>
+        <lifetime>3600</lifetime>
+        <restock>1800</restock>
+        <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
         <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="ContaminatedArea"/>
-        <usage name="Military"/>
-        <value name="Tier4"/>
-    </type>
-    <type name="M4A1_Black">
-        <nominal>2</nominal>
-        <lifetime>28800</lifetime>
-        <restock>0</restock>
-        <min>1</min>
-        <quantmin>-1</quantmin>
-        <quantmax>-1</quantmax>
-        <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
-        <category name="weapons"/>
-        <usage name="ContaminatedArea"/>
     </type>
     <type name="M4A1_Green">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>3600</lifetime>
-        <restock>300</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
         <cost>100</cost>
-        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="1" deloot="0"/>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
         <category name="weapons"/>
         <usage name="ContaminatedArea"/>
     </type>
@@ -15181,9 +15182,9 @@
         <usage name="Military"/>
     </type>
     <type name="StarlightOptic">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>3600</lifetime>
-        <restock>300</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
@@ -16620,9 +16621,9 @@
         <usage name="Village"/>
     </type>
     <type name="VSS">
-        <nominal>2</nominal>
+        <nominal>1</nominal>
         <lifetime>3600</lifetime>
-        <restock>300</restock>
+        <restock>1800</restock>
         <min>1</min>
         <quantmin>-1</quantmin>
         <quantmax>-1</quantmax>
