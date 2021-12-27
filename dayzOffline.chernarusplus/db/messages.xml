@@ -48,7 +48,14 @@ Example messages:
         <repeat>15</repeat>
         <onconnect>1</onconnect>
         <shutdown>0</shutdown>
-        <text>Welcome to #name. Join us on Discord at http://discordapp.com/</text>
+        <text>Welcome to #name.</text>
+    </message>
+    <message>
+        <delay>2</delay>
+        <repeat>15</repeat>
+        <onconnect>1</onconnect>
+        <shutdown>0</shutdown>
+        <text>Join us on Discord at https://discord.gg/ZBKMrTVy/</text>
     </message>
 
     <message>
